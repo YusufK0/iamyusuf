@@ -10,16 +10,6 @@ I am Yusuf K. I am a high school student working on websites and trying to impro
 <a href="https://www.instagram.com/yusufkstl/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-yusufkstl-black?style=flat-square&logo=instagram"></a>
 </p>
 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yusufbey)
-
-  </td>
-  <td width="50%">
-
-
 <summary>My Metrics</summary>
 <br>
 <img src="https://metrics.lecoq.io/YusufK0?template=classic&base.header=0&languages=1&lines=1&achievements=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&achievements.threshold=C&achievements.secrets=true&achievements.limit=3&config.timezone=Europe%2FIstanbul" alt="metrics">
