@@ -10,11 +10,6 @@ I am Yusuf K. I am a high school student working on websites and trying to impro
 <a href="https://www.instagram.com/yusufkstl/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-yusufkstl-black?style=flat-square&logo=instagram"></a>
 </p>
 
-#### Which techs I use?
-
-<img src="https://img.shields.io/badge/Node.js-589F4B?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js">  <img src="https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"> <img src="https://img.shields.io/badge/Javascript-FCDC00?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"> <img src="https://img.shields.io/badge/.NET-8456C7?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/Unity%20(Soon)-F7F7F7?style=for-the-badge&logo=unity&logoColor=black" alt="C#">
-
-
 <br><br>
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
