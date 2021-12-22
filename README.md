@@ -9,8 +9,14 @@ I am Yusuf K. I am a high school student working on websites and trying to impro
 <a href="mailto:yusufkustul810@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yusufkustul810@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.instagram.com/yusufkstl/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-yusufkstl-black?style=flat-square&logo=instagram"></a>
 </p>
-
 <br><br>
+
+<div align="center">
+   <a href="https://discord.com/users/466938634583670794" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/466938634583670794?bg=111111">
+   </a>
+</div>
+
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
