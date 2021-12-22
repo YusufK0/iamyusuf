@@ -16,8 +16,8 @@ I am Yusuf K. I am a high school student working on websites and trying to impro
 </p>
 
 <div align="center">
-   <a href="https://discord.com/users/466938634583670794" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/466938634583670794?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px">
+   <a href="https://discord.com/users/604650427686060052" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/604650427686060052?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px">
    </a>
 </div>
 
