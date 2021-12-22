@@ -12,8 +12,8 @@ I am Yusuf K. I am a high school student working on websites and trying to impro
    <a href="https://twitter.com/yusufkstll" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 <div align="center">
-   <a href="https://discord.com/users/298888568279924746" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/298888568279924746?bg=111111">
+   <a href="https://discord.com/users/466938634583670794" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/466938634583670794?bg=111111">
    </a>
 </div>
 
