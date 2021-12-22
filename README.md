@@ -12,11 +12,6 @@ I am Yusuf K. I am a high school student working on websites and trying to impro
    <a href="https://twitter.com/yusufkstll" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-<div align="center">
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/466938634583670794)](https://discord.com/users/466938634583670794)
-   </a>
-</div>
-
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yusufk0&show_icons=true&theme=synthwave" alt="yusufk0 :: Profile Stats" />
