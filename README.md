@@ -20,9 +20,3 @@ I am Yusuf K. I am a high school student working on websites and trying to impro
       <img src="https://lanyard-profile-readme.vercel.app/api/604650427686060052?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px">
    </a>
 </div>
-
-<h2 align="center">My GitHub Stats :bar_chart:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufk0&show_icons=true&theme=synthwave" alt="yusufk0 :: Profile Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufk0&langs_count=10&theme=tokyonight&layout=compact" alt="yusufk0 :: Top Langs" />
-</p>
