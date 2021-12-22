@@ -4,16 +4,19 @@ I am Yusuf K. I am a high school student working on websites and trying to impro
 <h3 align="center">Contact me:</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=yusufk0&color=green" alt="yusufk0 :: Profile Stats"></a>
-<a href="https://discord.gg/alaattincagil"><img src="https://img.shields.io/discord/534076005716066315.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/>
-<a href="mailto:yusufkustul810@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yusufkustul810@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.instagram.com/yusufkstl/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-yusufkstl-black?style=flat-square&logo=instagram"></a>
+   <a href="https://discord.com/users/466938634583670794" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://open.spotify.com/user/coy3xk1emd9z97qlezwpezuui" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+   <a href="https://www.youtube.com/channel/UCj5svUAZX3H5wFZpRJybMMA" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+   <a href="https://instagram.com/yusufkstl" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://github.com/yusufk0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://twitter.com/yusufkstll" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-<br><br>
-   <a href="https://discord.com/users/466938634583670794" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/466938634583670794?bg=111111">
+<div align="center">
+   <a href="https://discord.com/users/298888568279924746" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/298888568279924746?bg=111111">
    </a>
 </div>
+
 
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
