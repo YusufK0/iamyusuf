@@ -1,6 +1,9 @@
 ## :wave: 
 
-                              I am Yusuf K. I am a high school student working on websites and trying to improve herself.
+<p align="center">
+I am Yusuf K. I am a high school student working on websites and trying to improve herself.
+</a>
+
 <h3 align="center">Contact me:</h3>
 
 <p align="center">
