@@ -11,8 +11,8 @@
 <p align="center">
 <a href="https://www.instagram.com/yusufkstl/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitter.com/yusufkstll" target"blank_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://twitch.tv/yusufkstl" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-<a href="https://github.com/yusufk0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://twitch.tv/yusufkstll" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+ <a href="htthttps://www.youtube.com/channel/UCj5svUAZX3H5wFZpRJybMMA" target"blank_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 <a href="https://open.spotify.com/user/coy3xk1emd9z97qlezwpezuui" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/yyusufbey/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://discord.gg/GY5z6SGpwd" target"blank_"><img src="https://img.shields.io/discord/706851849705095182?style=for-the-badge&color=7289da&label=Yusuf K.&logo=node.js&logoColor=white"></a>
