@@ -1,4 +1,4 @@
-<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I'm YusufK. 👋</h2>
+<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I'm Yusuf K. 👋</h2>
 
 
 <div align="center">
@@ -15,7 +15,7 @@
 <a href="https://twitter.com/yusufkstll/" target"blank_"><img src="https://img.shields.io/badge/twitter%20-DC3175.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://open.spotify.com/user/coy3xk1emd9z97qlezwpezuui" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/yyusufbey/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="https://discord.gg/GY5z6SGpwd" target"blank_"><img src="https://img.shields.io/discord/706851849705095182?style=for-the-badge&color=7289da&label=YusufK&logo=node.js&logoColor=white"></a>
+<a href="https://discord.gg/GY5z6SGpwd" target"blank_"><img src="https://img.shields.io/discord/706851849705095182?style=for-the-badge&color=7289da&label=Yusuf K.&logo=node.js&logoColor=white"></a>
 <br>
 </p>
 
