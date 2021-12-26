@@ -1,9 +1,10 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I'm YusufK. 👋</h2>
 
-</div>
 
+<div align="center">
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/466938634583670794)](https://discord.com/users/466938634583670794)  
 
+</div>
 <h3 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">My Accounts</h3>
 <p align="center">
 <a href="https://discord.com/users/466938634583670794" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
