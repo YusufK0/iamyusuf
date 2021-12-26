@@ -1,14 +1,16 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, im YusufK. 👋</h2>
 
-<h3 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Contact me:</h3>
+</div>
 
+<h3 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">My Accounts</h3>
 <p align="center">
-   <a href="https://discord.com/users/466938634583670794" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://open.spotify.com/user/coy3xk1emd9z97qlezwpezuui" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   <a href="https://www.youtube.com/channel/UCj5svUAZX3H5wFZpRJybMMA" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-   <a href="https://instagram.com/yusufkstl" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://github.com/yusufk0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-   <a href="https://twitter.com/yusufkstll" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://discord.com/users/466938634583670794" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://github.com/yusufk0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://steamcommunity.com/id/yyusufbey/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://open.spotify.com/user/coy3xk1emd9z97qlezwpezuui" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.instagram.com/yusufkstl/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://discord.gg/GY5z6SGpwd" target"blank_"><img src="https://img.shields.io/discord/706851849705095182?style=for-the-badge&color=7289da&label=YusufK&logo=node.js&logoColor=white"></a>
+<br>
 </p>
 
 <details align="center">
@@ -16,6 +18,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yusufk0&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufk0&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=yusufk0&theme=nord" width="%100" height="150px" alt="stats" />
+</details>
+
+<details align="center">
+       <summary style="font-weight: bold; font-size: 18px">GitHub Statistics 2</summary>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YusufK0&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </details>
 
 <details align="center">
