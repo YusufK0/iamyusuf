@@ -12,7 +12,7 @@
 </p>
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.yusufk0.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/coy3xk1emd9z97qlezwpezuui)
+[<img src="https://novatorem.coy3xk1emd9z97qlezwpezuui.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/coy3xk1emd9z97qlezwpezuui)
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
