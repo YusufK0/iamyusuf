@@ -1,6 +1,6 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, im YusufK. 👋</h2>
 
-<h3 align="center">Contact me:</h3>
+<h3 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Contact me:</h3>
 
 <p align="center">
    <a href="https://discord.com/users/466938634583670794" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -16,11 +16,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yusufk0&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufk0&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=yusufk0&theme=nord" width="%100" height="150px" alt="stats" />
-</details>
-
-<details align="center">
-       <summary style="font-weight: bold; font-size: 18px">GitHub Statistics 2</summary>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YusufK0&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </details>
 
 <details align="center">
