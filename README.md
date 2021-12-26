@@ -1,6 +1,4 @@
-<p align="center">
-I am Yusuf K. I am a high school student working on websites and trying to improve herself.
-</a>
+<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, im YusufK. 👋</h2>
 
 <h3 align="center">Contact me:</h3>
 
@@ -13,14 +11,12 @@ I am Yusuf K. I am a high school student working on websites and trying to impro
    <a href="https://twitter.com/yusufkstll" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-<div align="center">
-   <a href="https://discord.com/users/604650427686060052" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/604650427686060052?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px">
-   </a>
-</div>
+### Spotify Playing 🎧
+[<img src="https://novatorem.cankcygt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/coy3xk1emd9z97qlezwpezuui)
 
-<h2 align="center">My GitHub Stats :bar_chart:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufk0&show_icons=true&theme=synthwave" alt="yusufk0 :: Profile Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufk0&langs_count=10&theme=tokyonight&layout=compact" alt="yusufk0 :: Top Langs" />
-</p>
+<details align="center">
+  <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=yusufk0&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufk0&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=yusufk0&theme=nord" width="%100" height="150px" alt="stats" />
+</details>
