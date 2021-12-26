@@ -12,6 +12,11 @@
 </p>
 
 <details align="center">
+       <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YusufK0&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</details>
+
+<details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=yusufk0&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufk0&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
