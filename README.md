@@ -1,8 +1,8 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I'm YusufK. 👋</h2>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/262264459030953985)](https://discord.com/users/262264459030953985)  
-
 </div>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/466938634583670794)](https://discord.com/users/466938634583670794)  
 
 <h3 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">My Accounts</h3>
 <p align="center">
